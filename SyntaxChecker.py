@@ -19,6 +19,7 @@ MULTIPLY = 'MULTIPLY'
 DIVIDE = 'DIVIDE'
 POWER = 'POWER'
 EOF = 'EOF'
+EQUAL='EQUAL'
 
 
 # Lexical Analyzer
